@@ -1,4 +1,4 @@
-# By Arpan Srijita Priyanka Sucheta Adrita
+# By Arpan Srijita Priyanka Sucheta and Adrita
 
 import math
 from tkinter import *
