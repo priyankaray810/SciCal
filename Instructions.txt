@@ -1,0 +1,11 @@
+->This calculator is developed by Arpan Srijita Piyanka Sucheta Adrita
+
+->This is a GUI based application which uses Google Drive and Google sheet API for backend
+
+->In order to run the code all the files in the folder must be downloaded and kept in the same place
+
+-> to install gspread and oauth2client commands are
+	pip install gspread
+	pip install oauth2client
+
+->Screenshot of the app is attached with this file
