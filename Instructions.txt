@@ -9,3 +9,9 @@
 	pip install oauth2client
 
 ->Screenshot of the app is attached with this file
+
+->Arpan: made the overall framework of the calculator and linked it with the Google drive API(to show the mathematical calulations history)
+->Srijita: created responsive user interface and modified the overall looks of the calculator, positioning of the buttons and color scheme selection
+->Priyanka: the overall design, managing the scalability factor and enhanced the overall user experience
+->Sucheta: added all the necessary user defined functions
+->Adrita: handled all the possible exceptions and fixed some minor bugs
